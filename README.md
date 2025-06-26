@@ -113,7 +113,7 @@ USERNAME=your_user_name
 PASSWORD=your_user_password
 DRIVER=SQL Server
 START_DATE=date_to_which_clear_data (format YYYYMMDD)
-DRY_RUN=True (True - for testing script, False - clear database)
+DRY_RUN=True (True - for testing purposes, False - to persist changes in DB)
 ```
 
 Adjust the values according to your database configuration.
