@@ -1,4 +1,4 @@
-# C SQL DB Cleanup
+# 1C SQL DB Cleanup
 
 A Python project for cleaning up your database.
 
