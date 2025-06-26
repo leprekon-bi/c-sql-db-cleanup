@@ -1,0 +1,4 @@
+pyodbc
+pandas
+pyyaml
+pydantic_settings
