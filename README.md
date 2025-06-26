@@ -123,5 +123,5 @@ Adjust the values according to your database configuration.
 Run your cleanup script as needed:
 
 ```sh
-python
+python main.py
 ```
